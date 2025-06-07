@@ -1,1 +1,1 @@
-- The Markdown file contains the basic markdown syntax anyone can use to make the note taking easier
+- The Markdown file contains the basic markdown syntax anyone can use to making their note taking easier
